@@ -1,107 +1,142 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Haider</h1>
-<h3 align="center">Full Stack Web Developer | ASP.NET Core | React.js | JavaScript</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zh207775-glitch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# Hi 👋, I'm Zeeshan Haider
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;ASP.NET+Core+Developer;React+Developer;JavaScript+Enthusiast;ERPNext+%7C+Odoo+Developer;Always+Learning+New+Technologies" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=zh207775-glitch&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/zh207775-glitch?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/zh207775-glitch?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/zh207775-glitch">
-    <img src="https://img.shields.io/github/followers/zh207775-glitch?label=Followers&style=social" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-💻 Full Stack Web Developer with **2+ years of experience**
+🚀 Full Stack Web Developer with **2+ years of experience**
 
-- 🔭 Currently working on **ERP Systems & SaaS Applications**
-- 🌱 Learning **System Design, Microservices & Cloud**
-- 💼 Built **3 responsive websites** using HTML, CSS & JavaScript
-- ⚛️ Frontend: React.js
-- 🔷 Backend: ASP.NET Core Web API
-- 🗄️ Database: SQL Server & MySQL
-- 📚 Currently exploring **Odoo & ERPNext**
-- 🎯 Goal: Become a Senior Full Stack Developer
+- 💼 Built multiple responsive websites using HTML, CSS & JavaScript
+- ⚛️ Frontend Development with React.js
+- 🔷 Backend Development using ASP.NET Core Web API
+- 🗄️ SQL Server & MySQL Developer
+- 📦 ERP Development (ERPNext & Odoo)
+- 🌱 Currently learning System Design, Docker & Cloud Computing
+- 🎯 Goal: Become a Senior Software Engineer
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
 
 <a href="mailto:zh207775@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/zh207775-glitch">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=visualstudio"/>
-
-</p>
-
----
-
-## 📈 GitHub Statistics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zh207775-glitch&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh207775-glitch&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,cs,dotnet,mysql,git,github,vscode,visualstudio,postman"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# ⚡ Currently Working On
+
+- ERP Systems
+- SaaS Inventory Management
+- React Applications
+- ASP.NET Core APIs
+- RESTful Services
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Programming Community
+
+Learning platform for students and teachers with
+
+- Online Quizzes
+- Coding Competitions
+- Question Bank
+- Result Management
+- Student Dashboard
+
+**Tech**
+
+ASP.NET Core | SQL Server | React
+
+---
+
+## 📦 ERP System
+
+Enterprise Resource Planning System
+
+Modules
+
+- HR
+- CRM
+- Inventory
+- Sales
+- Purchase
+- Accounts
+- POS
+
+---
+
+## 💬 WhatsApp Automation
+
+Bulk Messaging
+
+Scheduling
+
+Customer Management
+
+Reporting
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=zh207775-glitch&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zh207775-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh207775-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zh207775-glitch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -111,55 +146,82 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zh207775-glitch&theme=onedark&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zh207775-glitch&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 Skills
 
-### 🌐 Programming Community
-Online learning platform for students and teachers with quizzes, coding competitions, paper evaluation, and progress tracking.
+### Frontend
 
-**Tech Stack**
-- ASP.NET Core
-- SQL Server
+- HTML5
+- CSS3
+- JavaScript
 - React.js
+- Bootstrap
+
+### Backend
+
+- ASP.NET Core
+- REST API
+- C#
+
+### Database
+
+- SQL Server
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Visual Studio
+- Postman
 
 ---
 
-### 📦 ERP System
+# 📚 Learning
 
-Enterprise Resource Planning System with Inventory, HR, CRM, POS, Finance, Purchasing, and Reporting modules.
-
----
-
-### 💬 WhatsApp Automation System
-
-Bulk messaging, scheduling, customer management, and reporting.
-
----
-
-## 💡 Currently Learning
-
-- Microservices
 - Docker
 - Kubernetes
 - Azure
 - AWS
+- Microservices
 - Clean Architecture
 
 ---
 
-## ⚡ Fun Fact
+# 🎯 2026 Goals
 
-> "First, solve the problem. Then, write the code."
+✅ Build 20+ Professional Projects
+
+✅ Master React
+
+✅ Master ASP.NET Core
+
+✅ Learn Azure Cloud
+
+✅ Contribute to Open Source
 
 ---
 
-⭐ Don't forget to follow me and star my repositories!
+# 📜 Quote
+
+> **"Code. Learn. Improve. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=120&section=footer"/>
+
+</div>
