@@ -1,0 +1,23 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="120" fill="#0D1117"/>
+  <rect x="0" y="0" width="900" height="1" fill="#30363D"/>
+
+  <rect x="400" y="30" width="0" height="2" rx="1" fill="url(#footAccent)">
+    <animate attributeName="width" from="0" to="100" dur="1.2s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="x" from="450" to="400" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </rect>
+
+  <text x="450" y="65" font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#C9D1D9" text-anchor="middle">
+    Thanks for stopping by — let's build something great.
+  </text>
+  <text x="450" y="90" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#8B949E" text-anchor="middle">
+    zh207775@gmail.com · Pakistan
+  </text>
+</svg>
