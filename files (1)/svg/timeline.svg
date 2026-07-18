@@ -1,0 +1,44 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#7EE787"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base line -->
+  <rect x="50" y="70" width="800" height="2" fill="#21262D"/>
+  <!-- animated progress line -->
+  <rect x="50" y="70" height="2" fill="url(#lineGrad)">
+    <animate attributeName="width" from="0" to="800" dur="1.8s" begin="0.2s" fill="freeze"/>
+  </rect>
+
+  <g font-family="Inter, Segoe UI, sans-serif" text-anchor="middle">
+    <!-- node 1 -->
+    <circle cx="50" cy="71" r="6" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/>
+    <text x="50" y="45" font-size="13" fill="#8B949E">2024</text>
+    <text x="50" y="105" font-size="13" fill="#F0F6FC">Started Web Dev</text>
+
+    <!-- node 2 -->
+    <circle cx="250" cy="71" r="6" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/>
+    <text x="250" y="45" font-size="13" fill="#8B949E">2024</text>
+    <text x="250" y="105" font-size="13" fill="#F0F6FC">React</text>
+
+    <!-- node 3 -->
+    <circle cx="450" cy="71" r="6" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/>
+    <text x="450" y="45" font-size="13" fill="#8B949E">2025</text>
+    <text x="450" y="105" font-size="13" fill="#F0F6FC">ASP.NET Core</text>
+
+    <!-- node 4 -->
+    <circle cx="650" cy="71" r="6" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/>
+    <text x="650" y="45" font-size="13" fill="#8B949E">2025</text>
+    <text x="650" y="105" font-size="13" fill="#F0F6FC">ERPNext &amp; Odoo</text>
+
+    <!-- node 5 : current -->
+    <circle cx="850" cy="71" r="7" fill="#0D1117" stroke="#7EE787" stroke-width="2.5">
+      <animate attributeName="r" values="7;9;7" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="850" y="45" font-size="13" fill="#7EE787" font-weight="600">Now</text>
+    <text x="850" y="105" font-size="13" fill="#F0F6FC">Enterprise Systems</text>
+  </g>
+</svg>
