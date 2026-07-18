@@ -1,0 +1,67 @@
+<svg width="620" height="300" viewBox="0 0 620 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="l1"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="180" dur="0.6s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="150" dur="0.5s" begin="1.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="150" dur="0.4s" begin="2.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="80" dur="0.35s" begin="3.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="0" y="0" height="20"><animate attributeName="width" from="0" to="260" dur="0.7s" begin="3.8s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="620" height="300" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect width="620" height="34" rx="10" fill="#0D1117"/>
+  <rect y="24" width="620" height="10" fill="#0D1117"/>
+  <circle cx="24" cy="17" r="5.5" fill="#FF5F56"/>
+  <circle cx="44" cy="17" r="5.5" fill="#FFBD2E"/>
+  <circle cx="64" cy="17" r="5.5" fill="#27C93F"/>
+  <text x="310" y="21" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#8B949E" text-anchor="middle">zsh — zeeshan@dev</text>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="15">
+    <!-- line 1 -->
+    <text x="24" y="70" fill="#7EE787">$</text>
+    <g clip-path="url(#l1)">
+      <text x="42" y="70" fill="#F0F6FC">whoami</text>
+    </g>
+    <text x="42" y="95" fill="#58A6FF" opacity="0">
+      Zeeshan Haider
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9s" fill="freeze"/>
+    </text>
+
+    <!-- line 2 -->
+    <text x="24" y="130" fill="#7EE787">$</text>
+    <g clip-path="url(#l2)" transform="translate(0,0)">
+      <text x="42" y="130" fill="#F0F6FC">role --current</text>
+    </g>
+    <text x="42" y="155" fill="#58A6FF" opacity="0">
+      Full Stack Engineer
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/>
+    </text>
+
+    <!-- line 3 -->
+    <text x="24" y="190" fill="#7EE787">$</text>
+    <g clip-path="url(#l3)">
+      <text x="42" y="190" fill="#F0F6FC">tech --list</text>
+    </g>
+    <text x="42" y="212" fill="#8B949E" opacity="0" font-size="13">
+      React · ASP.NET Core · SQL Server · ERPNext · Odoo
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.7s" fill="freeze"/>
+    </text>
+
+    <!-- line 4 -->
+    <text x="24" y="245" fill="#7EE787">$</text>
+    <g clip-path="url(#l4)">
+      <text x="42" y="245" fill="#F0F6FC">status</text>
+    </g>
+
+    <!-- line 5 output + cursor -->
+    <text x="42" y="270" fill="#00E5FF" opacity="0">
+      Building enterprise systems...
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.5s" fill="freeze"/>
+    </text>
+    <rect x="322" y="257" width="9" height="16" fill="#00E5FF" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.5s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg width="620" height="240" viewBox="0 0 620 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barA" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#F0F6FC">
+    <!-- Frontend -->
+    <text x="0" y="16">Frontend</text>
+    <text x="620" y="16" text-anchor="end" fill="#8B949E" font-family="JetBrains Mono, monospace" font-size="12">React · JS · Tailwind</text>
+    <rect x="0" y="26" width="620" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="26" height="8" rx="4" fill="url(#barA)">
+      <animate attributeName="width" from="0" to="527" dur="1s" begin="0.1s" fill="freeze"/>
+    </rect>
+
+    <!-- Backend -->
+    <text x="0" y="66">Backend</text>
+    <text x="620" y="66" text-anchor="end" fill="#8B949E" font-family="JetBrains Mono, monospace" font-size="12">ASP.NET Core · C#</text>
+    <rect x="0" y="76" width="620" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="76" height="8" rx="4" fill="url(#barA)">
+      <animate attributeName="width" from="0" to="490" dur="1s" begin="0.25s" fill="freeze"/>
+    </rect>
+
+    <!-- Database -->
+    <text x="0" y="116">Database</text>
+    <text x="620" y="116" text-anchor="end" fill="#8B949E" font-family="JetBrains Mono, monospace" font-size="12">SQL Server · MySQL</text>
+    <rect x="0" y="126" width="620" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="126" height="8" rx="4" fill="url(#barA)">
+      <animate attributeName="width" from="0" to="460" dur="1s" begin="0.4s" fill="freeze"/>
+    </rect>
+
+    <!-- ERP Systems -->
+    <text x="0" y="166">ERP Systems</text>
+    <text x="620" y="166" text-anchor="end" fill="#8B949E" font-family="JetBrains Mono, monospace" font-size="12">ERPNext · Odoo</text>
+    <rect x="0" y="176" width="620" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="176" height="8" rx="4" fill="url(#barA)">
+      <animate attributeName="width" from="0" to="500" dur="1s" begin="0.55s" fill="freeze"/>
+    </rect>
+
+    <!-- Tools -->
+    <text x="0" y="216">Tools</text>
+    <text x="620" y="216" text-anchor="end" fill="#8B949E" font-family="JetBrains Mono, monospace" font-size="12">Git · Docker · Postman</text>
+    <rect x="0" y="226" width="620" height="8" rx="4" fill="#21262D"/>
+    <rect x="0" y="226" height="8" rx="4" fill="url(#barA)">
+      <animate attributeName="width" from="0" to="400" dur="1s" begin="0.7s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="avatarRing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="14" fill="#161B22" stroke="#30363D"/>
+
+  <!-- left: avatar mark -->
+  <g transform="translate(120,110)">
+    <circle r="70" fill="none" stroke="url(#avatarRing)" stroke-width="1.5" opacity="0.6"/>
+    <circle r="55" fill="#0D1117" stroke="#30363D"/>
+    <!-- minimal developer glyph -->
+    <path d="M -18 10 L -30 -2 L -18 -14" stroke="#58A6FF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 18 10 L 30 -2 L 18 -14" stroke="#00E5FF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="6" y1="-18" x2="-6" y2="18" stroke="#7EE787" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- divider -->
+  <line x1="260" y1="30" x2="260" y2="190" stroke="#30363D"/>
+
+  <!-- right: info -->
+  <g font-family="Inter, Segoe UI, sans-serif">
+    <text x="290" y="55" font-size="20" font-weight="700" fill="#F0F6FC">About</text>
+    <text x="290" y="88" font-size="14" fill="#C9D1D9">Full stack engineer focused on business</text>
+    <text x="290" y="110" font-size="14" fill="#C9D1D9">management systems — inventory, POS,</text>
+    <text x="290" y="132" font-size="14" fill="#C9D1D9">accounting, CRM, HR, and e-commerce.</text>
+    <text x="290" y="164" font-size="13" fill="#8B949E" font-family="JetBrains Mono, monospace">Based in Pakistan · 2+ years experience</text>
+    <text x="290" y="186" font-size="13" fill="#8B949E" font-family="JetBrains Mono, monospace">zh207775@gmail.com</text>
+  </g>
+</svg>

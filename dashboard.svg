@@ -1,0 +1,60 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tileBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="Inter, Segoe UI, sans-serif" text-anchor="middle">
+    <!-- tile 1 -->
+    <g transform="translate(0,0)">
+      <rect width="170" height="120" rx="12" fill="#161B22" stroke="url(#tileBorder)" stroke-width="1.2"/>
+      <text x="85" y="55" font-family="JetBrains Mono, monospace" font-size="30" font-weight="700" fill="#58A6FF" opacity="0">
+        24
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.1s" fill="freeze"/>
+      </text>
+      <text x="85" y="82" font-size="12" fill="#8B949E">Projects</text>
+    </g>
+
+    <!-- tile 2 -->
+    <g transform="translate(182,0)">
+      <rect width="170" height="120" rx="12" fill="#161B22" stroke="url(#tileBorder)" stroke-width="1.2"/>
+      <text x="85" y="55" font-family="JetBrains Mono, monospace" font-size="30" font-weight="700" fill="#00E5FF" opacity="0">
+        15
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/>
+      </text>
+      <text x="85" y="82" font-size="12" fill="#8B949E">Repositories</text>
+    </g>
+
+    <!-- tile 3 -->
+    <g transform="translate(364,0)">
+      <rect width="170" height="120" rx="12" fill="#161B22" stroke="url(#tileBorder)" stroke-width="1.2"/>
+      <text x="85" y="55" font-family="JetBrains Mono, monospace" font-size="30" font-weight="700" fill="#7EE787" opacity="0">
+        2y
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
+      </text>
+      <text x="85" y="82" font-size="12" fill="#8B949E">Experience</text>
+    </g>
+
+    <!-- tile 4 -->
+    <g transform="translate(546,0)">
+      <rect width="170" height="120" rx="12" fill="#161B22" stroke="url(#tileBorder)" stroke-width="1.2"/>
+      <text x="85" y="55" font-family="JetBrains Mono, monospace" font-size="30" font-weight="700" fill="#58A6FF" opacity="0">
+        300+
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
+      </text>
+      <text x="85" y="82" font-size="12" fill="#8B949E">Commits</text>
+    </g>
+
+    <!-- tile 5 -->
+    <g transform="translate(728,0)">
+      <rect width="170" height="120" rx="12" fill="#161B22" stroke="url(#tileBorder)" stroke-width="1.2"/>
+      <text x="85" y="55" font-family="JetBrains Mono, monospace" font-size="30" font-weight="700" fill="#00E5FF" opacity="0">
+        999+
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>
+      </text>
+      <text x="85" y="82" font-size="12" fill="#8B949E">Cups of Coffee</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="Inter, Segoe UI, sans-serif">
+    <!-- Card template x offsets: 0,190,380,570,760 -->
+    <!-- React -->
+    <g transform="translate(0,0)">
+      <rect width="170" height="150" rx="12" fill="#161B22" stroke="url(#cardBorder)" stroke-width="1.2"/>
+      <text x="16" y="34" font-size="15" font-weight="600" fill="#F0F6FC">React</text>
+      <rect x="16" y="110" width="138" height="6" rx="3" fill="#21262D"/>
+      <rect x="16" y="110" height="6" rx="3" fill="#58A6FF"><animate attributeName="width" from="0" to="124" dur="0.9s" begin="0.1s" fill="freeze"/></rect>
+      <text x="16" y="132" font-size="12" fill="#8B949E">Advanced</text>
+    </g>
+
+    <!-- ASP.NET Core -->
+    <g transform="translate(190,0)">
+      <rect width="170" height="150" rx="12" fill="#161B22" stroke="url(#cardBorder)" stroke-width="1.2"/>
+      <text x="16" y="34" font-size="15" font-weight="600" fill="#F0F6FC">ASP.NET Core</text>
+      <rect x="16" y="110" width="138" height="6" rx="3" fill="#21262D"/>
+      <rect x="16" y="110" height="6" rx="3" fill="#58A6FF"><animate attributeName="width" from="0" to="114" dur="0.9s" begin="0.25s" fill="freeze"/></rect>
+      <text x="16" y="132" font-size="12" fill="#8B949E">Advanced</text>
+    </g>
+
+    <!-- SQL Server -->
+    <g transform="translate(380,0)">
+      <rect width="170" height="150" rx="12" fill="#161B22" stroke="url(#cardBorder)" stroke-width="1.2"/>
+      <text x="16" y="34" font-size="15" font-weight="600" fill="#F0F6FC">SQL Server</text>
+      <rect x="16" y="110" width="138" height="6" rx="3" fill="#21262D"/>
+      <rect x="16" y="110" height="6" rx="3" fill="#58A6FF"><animate attributeName="width" from="0" to="105" dur="0.9s" begin="0.4s" fill="freeze"/></rect>
+      <text x="16" y="132" font-size="12" fill="#8B949E">Proficient</text>
+    </g>
+
+    <!-- ERPNext -->
+    <g transform="translate(570,0)">
+      <rect width="170" height="150" rx="12" fill="#161B22" stroke="url(#cardBorder)" stroke-width="1.2"/>
+      <text x="16" y="34" font-size="15" font-weight="600" fill="#F0F6FC">ERPNext</text>
+      <rect x="16" y="110" width="138" height="6" rx="3" fill="#21262D"/>
+      <rect x="16" y="110" height="6" rx="3" fill="#00E5FF"><animate attributeName="width" from="0" to="120" dur="0.9s" begin="0.55s" fill="freeze"/></rect>
+      <text x="16" y="132" font-size="12" fill="#8B949E">Advanced</text>
+    </g>
+
+    <!-- Odoo -->
+    <g transform="translate(760,0)">
+      <rect width="140" height="150" rx="12" fill="#161B22" stroke="url(#cardBorder)" stroke-width="1.2"/>
+      <text x="16" y="34" font-size="15" font-weight="600" fill="#F0F6FC">Odoo</text>
+      <rect x="16" y="110" width="108" height="6" rx="3" fill="#21262D"/>
+      <rect x="16" y="110" height="6" rx="3" fill="#00E5FF"><animate attributeName="width" from="0" to="90" dur="0.9s" begin="0.7s" fill="freeze"/></rect>
+      <text x="16" y="132" font-size="12" fill="#8B949E">Proficient</text>
+    </g>
+  </g>
+</svg>
